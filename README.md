@@ -1,7 +1,3 @@
-Three.js is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL﻿.
-
-React-three-fiber is a small React renderer for Three.js (also known as R3F), which is essentially a powerful React renderer for Three.js, usable for the web and with React Native.
-
 Why Do We Need React Three Fiber ?
 With React Three Fiber, building a dynamic scene graph becomes so much easier because you can break it up into declarative, reusable components with clean, reactive semantics. This also opens up the ecosystem so that now you can apply generic packages for state, animation, gestures and so on.
 
